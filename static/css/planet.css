@@ -105,3 +105,40 @@ body {
   .button-container button:hover {
     background-color: #45a049;
   }
+
+  /* Estilo del overlay de la pantalla emergente */
+.popup-overlay {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Contenido del popup */
+  .popup-content {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+    width: 300px;
+    position: relative;
+  }
+  
+  /* Botón de cerrar (X) */
+  .close {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 24px;
+    cursor: pointer;
+  }
+  
+  /* Estilos del texto del popup */
+  #popup-text {
+    font-size: 18px;
+  }
