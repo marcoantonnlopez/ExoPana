@@ -1,0 +1,87 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+
+  /* Estilos del header */
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+  }
+  
+  /* Estilos del footer */
+  footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+  }
+
+  /* Contenedor del canvas y los botones */
+.canvas-and-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  /* Estilo del canvas */
+  .canvas-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Estilos de los botones */
+  .button-controls {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .button-controls button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .button-controls button:hover {
+    background-color: #45a049;
+  }
+  
+  /* Estilo del canvas */
+  #drawCanvas {
+    border: 2px solid black;
+    background-color: #f0f0f0;
+  }
+/* Botón debajo del canvas */
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .button-container button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .button-container button:hover {
+    background-color: #45a049;
+  }  
