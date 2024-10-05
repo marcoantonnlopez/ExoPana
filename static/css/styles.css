@@ -1,10 +1,11 @@
 body {
-    margin: 0;
-    overflow: hidden;
-    font-family: Arial, sans-serif;
-    background-color: black;
-  }
-  
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
   #toolbar {
     position: absolute;
     bottom: 20px;
@@ -19,4 +20,87 @@ body {
     display: block;
     background: black;
   }
-  
+
+  /* Estilos del contenedor de planetas */
+#planets {
+  display: flex;
+  justify-content: space-around;
+  width: 80%;
+  margin: 0 auto;
+}
+
+/* Estilos individuales de los planetas */
+#planets div {
+  width: 200px;
+  height: 300px;
+  background-color: gray;
+  display: flex;
+  flex-direction: column; /* Organiza el contenido en columna */
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+}
+
+#planets div img {
+  margin-bottom: 10px;
+}
+
+#planets div button {
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+#planets div button:hover {
+  background-color: #45a049;
+}
+
+/* Estilos del header */
+header {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+}
+
+/* Estilos del footer */
+footer {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+  bottom: 0;
+}
+.landing-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+  text-align: center;
+}
+
+/* Título grande */
+.big-title {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+/* Estilos del botón en la Landing Page */
+.landing-content button {
+  padding: 15px 30px;
+  font-size: 18px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.landing-content button:hover {
+  background-color: #45a049;
+}
