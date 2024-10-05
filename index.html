@@ -3,29 +3,43 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Landing Page</title>
+  <title>ExoPanas</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
-  <!-- <link rel="stylesheet" href="../static/css/styles.css"> -->
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="../static/css/index.css">
+
+  <script type="importmap">
+    {
+      "imports": {
+        "three": "https://cdn.jsdelivr.net/npm/three@0.161/build/three.module.js",
+        "jsm/": "https://cdn.jsdelivr.net/npm/three@0.161/examples/jsm/"
+      }
+    }
+  </script>
 </head>
 <body>
-    <div class="Logo">
-        <img src="./static/img/Logo.svg" alt="Logo">
-    </div>
+  <!-- Contenedor del logo -->
+  <div class="Logo">
+    <img src="./static/img/Logo.svg" alt="Logo">
+  </div>
 
   <!-- Contenido principal de la Landing Page -->
   <div class="landing-content">
-    <h1 class="big-title">Chart the Stars, 
-        Create Your Universe!</h1>
+    <h1 class="big-title">Chart the Stars, Create Your Universe!</h1>
     <img src="./static/img/Circle.svg" alt="">
     <button onclick="location.href='./Pages/Menu.html'">Go to Main Page</button>
-</div>
+  </div>
+
+  <!-- Contenedor para el sistema solar -->
+  <div id="solar-system-container"></div>
 
   <!-- Footer sencillo -->
   <footer>
     <p>&copy; 2024 Star Explorer. All rights reserved.</p>
   </footer>
+
+  <!-- Script del sistema solar -->
+  <script type="module" src="./solar-system-main/index.js"></script>
 </body>
 </html>

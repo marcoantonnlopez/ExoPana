@@ -28,7 +28,7 @@ body {
 }
 
 .landing-content {
-    margin-top: 80px; /* Añade espacio para que el contenido no se superponga con el header */
+    margin-top: 80px; 
     text-align: center;
 }
 
