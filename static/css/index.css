@@ -1,0 +1,56 @@
+body {
+    font-family: "Inter", sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+}
+
+.Logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.8);
+    top: 0;
+    left: 0;
+    z-index: 10;
+}
+
+.Logo img {
+    width: 30%;
+}
+
+.landing-content {
+    margin-top: 80px; /* Añade espacio para que el contenido no se superponga con el header */
+    text-align: center;
+}
+
+.big-title {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+button {
+    font-size: 1rem;
+    padding: 10px 20px;
+    background-color: white;
+    border: none;
+    cursor: pointer;
+    color: black;
+}
+
+footer {
+    margin-top: auto;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.1);
+    color: white;
+    text-align: center;
+    width: 100%;
+}
