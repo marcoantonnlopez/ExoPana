@@ -10,7 +10,7 @@ body {
   
   /* Header */
   header {
-    background-color: #333;
+    background: linear-gradient(90deg, rgba(5, 5, 5, 0.65) 0%, rgba(0, 25, 62, 0.65) 100%);
     color: white;
     padding: 10px;
     text-align: center;
@@ -19,7 +19,7 @@ body {
   
   /* Footer */
   footer {
-    background-color: #333;
+    background: linear-gradient(90deg, rgba(5, 5, 5, 0.65) 0%, rgba(0, 25, 62, 0.65) 100%);
     color: white;
     padding: 10px;
     text-align: center;
@@ -65,10 +65,11 @@ body {
   
   /* Estilo de los pequeños contenedores */
 .grid-item {
-    background-color: lightgray;
+    background: linear-gradient(90deg, #bc2dffbf 0%, #5296fcbf 100%);
     padding: 20px;
     text-align: center;
-    border: 1px solid #000;
+    border: none;
+    border-radius: 10px;
     position: relative;
   }
   
@@ -76,15 +77,18 @@ body {
   .grid-item .small-button {
     margin-top: 10px;
     padding: 5px 10px;
-    background-color: #4CAF50;
+    background: linear-gradient(90deg, rgba(5, 5, 5, 0.65) 0%, rgba(0, 25, 62, 0.65) 100%);
     color: white;
     border: none;
+    border-radius: 4px;
     cursor: pointer;
     font-size: 14px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
   }
   
   .grid-item .small-button:hover {
-    background-color: #45a049;
+    background: linear-gradient(90deg, rgba(42, 42, 42, 0.65) 0%, rgba(2, 149, 162, 0.65) 100%);
+    transform: scale(1.1); 
   }
   
   /* Botones debajo del contenido principal */
@@ -95,15 +99,18 @@ body {
   .button-container button {
     padding: 10px 20px;
     font-size: 18px;
-    background-color: #4CAF50;
+    background: linear-gradient(90deg, rgba(5, 5, 5, 0.65) 0%, rgba(0, 25, 62, 0.65) 100%);
     color: white;
     border: none;
+    border-radius: 12px;
     cursor: pointer;
     margin-right: 10px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
   }
   
   .button-container button:hover {
-    background-color: #45a049;
+    background: linear-gradient(90deg, rgba(42, 42, 42, 0.65) 0%, rgba(2, 149, 162, 0.65) 100%);
+    transform: scale(1.1); 
   }
 
   /* Estilo del overlay de la pantalla emergente */
