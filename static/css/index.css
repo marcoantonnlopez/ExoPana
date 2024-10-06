@@ -7,13 +7,12 @@ body {
     height: 100vh;
     margin: 0;
     padding: 0;
-    /* background-color: black; */
-    background-color: #0D0D0D;
+  background-color: #0D0D0D;
     background-image: url("../img/Circle.svg");
     background-size: cover;
     background-width: 100%;
     background-hight: 100%;
-    color: white;
+  background-repeat: no-repeat; 
 }
 
 .Logo {
@@ -59,3 +58,22 @@ footer {
     text-align: center;
     width: 100%;
 }
+
+/**Bbutton  */
+.button-container button {
+    padding: 20px 40px;
+    font-size: 18px;
+    background: linear-gradient(90deg, rgba(5, 5, 5, 0.65) 0%, rgba(0, 25, 62, 0.65) 100%);
+    color: white;
+    border: none;
+    font-weight: 600;
+    border-radius: 12px;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: background-color 0.3s ease, transform 0.3s ease, font-weight 0.3s ease;
+  }
+  
+  .button-container button:hover {
+    background: linear-gradient(90deg, rgba(8, 8, 8, 0.65) 0%, rgba(0, 236, 205, 0.65)100%);
+    transform: scale(1.1); 
+  }

@@ -5,10 +5,9 @@ body {
   align-items: center;
   height: 100vh;
   margin: 0;
-  background-image: url('../img/Background.svg'); /* Ruta a la imagen */
+  /* background-image: url('../img/Background.svg');  */
   background-size: cover; /* Ajusta la imagen para que cubra toda la pantalla */
   background-position: center; /* Centra la imagen */
-  background-repeat: no-repeat; /* Evita que la imagen se repita */
   font-family: "Inter", sans-serif;
 }
   
@@ -100,23 +99,6 @@ body {
   /* Botones debajo del contenido principal */
   .button-container {
     margin-top: 20px;
-  }
-  
-  .button-container button {
-    padding: 10px 20px;
-    font-size: 18px;
-    background: linear-gradient(90deg, rgba(5, 5, 5, 0.65) 0%, rgba(0, 25, 62, 0.65) 100%);
-    color: white;
-    border: none;
-    border-radius: 12px;
-    cursor: pointer;
-    margin-right: 10px;
-    transition: background-color 0.3s ease, transform 0.3s ease;
-  }
-  
-  .button-container button:hover {
-    background: linear-gradient(90deg, rgba(42, 42, 42, 0.65) 0%, rgba(2, 149, 162, 0.65) 100%);
-    transform: scale(1.1); 
   }
 
   /* Estilo del overlay de la pantalla emergente */
