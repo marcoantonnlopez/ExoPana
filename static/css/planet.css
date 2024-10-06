@@ -59,7 +59,10 @@ body {
     border: none;
     border-radius: 15px;
   }
-  
+  .model-3d img {
+    width: 80%;
+    border-radius: 10px;
+  }
   /* Estilo del contenedor con los pequeños contenedores */
   .container-grid {
     width: 45%;
@@ -137,3 +140,4 @@ body {
   #popup-text {
     font-size: 18px;
   }
+
