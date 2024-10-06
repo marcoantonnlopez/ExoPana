@@ -1,5 +1,6 @@
 <svg width="1280" height="832" viewBox="0 0 1280 832" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="1280" height="832" fill="#0D0D0D"/>
+<rect width="1280" height="832" fill="#070707"/>
+<rect width="1280" height="832" fill="black" fill-opacity="0.5"/>
 <g style="mix-blend-mode:color-dodge">
 <rect width="6.67001" height="64.0321" transform="matrix(-0.768271 -0.640124 0.824453 -0.56593 705.625 249.6)" fill="black"/>
 <ellipse cx="3.33501" cy="32.0161" rx="3.33501" ry="32.0161" transform="matrix(-0.768271 -0.640124 0.824453 -0.56593 705.625 249.6)" fill="url(#paint0_radial_38_306)"/>
@@ -53,8 +54,8 @@
 <ellipse cx="3.03397" cy="29.1261" rx="3.03397" ry="29.1261" transform="matrix(-0.768271 -0.640124 0.824453 -0.56593 429.224 81.6301)" fill="url(#paint12_radial_38_306)"/>
 </g>
 <g style="mix-blend-mode:color-dodge">
-<rect width="6.06793" height="58.2522" transform="matrix(-0.824453 0.56593 -0.768271 -0.640124 475.784 80.132)" fill="black"/>
-<ellipse cx="3.03397" cy="29.1261" rx="3.03397" ry="29.1261" transform="matrix(-0.824453 0.56593 -0.768271 -0.640124 475.784 80.132)" fill="url(#paint13_radial_38_306)"/>
+<rect width="6.06793" height="58.2522" transform="matrix(-0.824453 0.56593 -0.768271 -0.640124 475.785 80.132)" fill="black"/>
+<ellipse cx="3.03397" cy="29.1261" rx="3.03397" ry="29.1261" transform="matrix(-0.824453 0.56593 -0.768271 -0.640124 475.785 80.132)" fill="url(#paint13_radial_38_306)"/>
 </g>
 <g style="mix-blend-mode:color-dodge">
 <rect width="13.4403" height="129.026" transform="translate(161.101 91.866) rotate(45)" fill="black"/>
@@ -85,7 +86,7 @@
 <ellipse cx="457.589" cy="330.588" rx="4.7877" ry="45.962" transform="rotate(45 457.589 330.588)" fill="url(#paint20_radial_38_306)"/>
 </g>
 <g style="mix-blend-mode:color-dodge">
-<rect width="9.5754" height="91.9239" transform="translate(421.704 301.474) rotate(-45)" fill="black"/>
+<rect width="9.5754" height="91.9239" transform="translate(421.703 301.474) rotate(-45)" fill="black"/>
 <ellipse cx="457.589" cy="330.588" rx="4.7877" ry="45.962" transform="rotate(-45 457.589 330.588)" fill="url(#paint21_radial_38_306)"/>
 </g>
 <g style="mix-blend-mode:color-dodge">
@@ -265,8 +266,8 @@
 <ellipse cx="3.14363" cy="30.1788" rx="3.14363" ry="30.1788" transform="matrix(0.824453 -0.56593 0.768271 0.640124 698.661 703.129)" fill="url(#paint65_radial_38_306)"/>
 </g>
 <g style="mix-blend-mode:color-dodge">
-<rect width="9.21157" height="88.4311" transform="matrix(0.768271 0.640124 -0.824453 0.56593 900.204 680.266)" fill="black"/>
-<ellipse cx="4.60579" cy="44.2155" rx="4.60579" ry="44.2155" transform="matrix(0.768271 0.640124 -0.824453 0.56593 900.204 680.266)" fill="url(#paint66_radial_38_306)"/>
+<rect width="9.21157" height="88.4311" transform="matrix(0.768271 0.640124 -0.824453 0.56593 900.204 680.265)" fill="black"/>
+<ellipse cx="4.60579" cy="44.2155" rx="4.60579" ry="44.2155" transform="matrix(0.768271 0.640124 -0.824453 0.56593 900.204 680.265)" fill="url(#paint66_radial_38_306)"/>
 </g>
 <g style="mix-blend-mode:color-dodge">
 <rect width="9.21157" height="88.4311" transform="matrix(0.824453 -0.56593 0.768271 0.640124 829.522 682.54)" fill="black"/>
@@ -306,11 +307,11 @@
 </g>
 <g style="mix-blend-mode:color-dodge">
 <rect width="9.57541" height="91.9239" transform="translate(790.798 520.65) rotate(-135)" fill="black"/>
-<ellipse cx="819.913" cy="484.765" rx="4.7877" ry="45.962" transform="rotate(-135 819.913 484.765)" fill="url(#paint76_radial_38_306)"/>
+<ellipse cx="819.913" cy="484.764" rx="4.7877" ry="45.962" transform="rotate(-135 819.913 484.764)" fill="url(#paint76_radial_38_306)"/>
 </g>
 <g style="mix-blend-mode:color-dodge">
 <rect width="9.5754" height="91.9239" transform="translate(855.798 513.879) rotate(135)" fill="black"/>
-<ellipse cx="819.912" cy="484.765" rx="4.7877" ry="45.962" transform="rotate(135 819.912 484.765)" fill="url(#paint77_radial_38_306)"/>
+<ellipse cx="819.912" cy="484.764" rx="4.7877" ry="45.962" transform="rotate(135 819.912 484.764)" fill="url(#paint77_radial_38_306)"/>
 </g>
 <g style="mix-blend-mode:color-dodge">
 <rect width="12.669" height="121.622" transform="translate(792.627 422.479) rotate(-135)" fill="black"/>
@@ -321,7 +322,7 @@
 <ellipse cx="831.148" cy="375" rx="6.33449" ry="60.8111" transform="rotate(135 831.148 375)" fill="url(#paint79_radial_38_306)"/>
 </g>
 <g style="mix-blend-mode:color-dodge">
-<rect width="18.5616" height="178.191" transform="translate(520.71 489.562) rotate(-135)" fill="black"/>
+<rect width="18.5616" height="178.191" transform="translate(520.711 489.562) rotate(-135)" fill="black"/>
 <ellipse cx="577.148" cy="420" rx="9.28079" ry="89.0955" transform="rotate(-135 577.148 420)" fill="url(#paint80_radial_38_306)"/>
 </g>
 <g style="mix-blend-mode:color-dodge">
@@ -341,8 +342,8 @@
 <ellipse cx="3.33501" cy="32.0161" rx="3.33501" ry="32.0161" transform="matrix(-0.550186 0.835042 -0.654585 -0.755988 1199.31 227.882)" fill="url(#paint84_radial_38_306)"/>
 </g>
 <g style="mix-blend-mode:color-dodge">
-<rect width="6.67001" height="64.0321" transform="matrix(0.654585 0.755988 -0.550186 0.835042 1191.95 177.208)" fill="black"/>
-<ellipse cx="3.335" cy="32.0161" rx="3.335" ry="32.0161" transform="matrix(0.654585 0.755988 -0.550186 0.835042 1191.95 177.208)" fill="url(#paint85_radial_38_306)"/>
+<rect width="6.67001" height="64.0321" transform="matrix(0.654585 0.755988 -0.550186 0.835042 1191.95 177.207)" fill="black"/>
+<ellipse cx="3.335" cy="32.0161" rx="3.335" ry="32.0161" transform="matrix(0.654585 0.755988 -0.550186 0.835042 1191.95 177.207)" fill="url(#paint85_radial_38_306)"/>
 </g>
 <g style="mix-blend-mode:color-dodge">
 <rect width="6.67001" height="64.0321" transform="matrix(-0.550186 0.835042 -0.654585 -0.755988 1195.35 318.617)" fill="black"/>
@@ -357,8 +358,8 @@
 <ellipse cx="3.33501" cy="32.0161" rx="3.33501" ry="32.0161" transform="matrix(-0.550186 0.835042 -0.654585 -0.755988 1165.08 362.096)" fill="url(#paint88_radial_38_306)"/>
 </g>
 <g style="mix-blend-mode:color-dodge">
-<rect width="6.67001" height="64.0321" transform="matrix(0.654585 0.755988 -0.550186 0.835042 1157.72 311.422)" fill="black"/>
-<ellipse cx="3.335" cy="32.0161" rx="3.335" ry="32.0161" transform="matrix(0.654585 0.755988 -0.550186 0.835042 1157.72 311.422)" fill="url(#paint89_radial_38_306)"/>
+<rect width="6.67001" height="64.0321" transform="matrix(0.654585 0.755988 -0.550186 0.835042 1157.72 311.421)" fill="black"/>
+<ellipse cx="3.335" cy="32.0161" rx="3.335" ry="32.0161" transform="matrix(0.654585 0.755988 -0.550186 0.835042 1157.72 311.421)" fill="url(#paint89_radial_38_306)"/>
 </g>
 <g style="mix-blend-mode:color-dodge">
 <rect width="4.752" height="45.6192" transform="matrix(-0.550186 0.835042 -0.654585 -0.755988 1125.48 415.299)" fill="black"/>
@@ -401,8 +402,8 @@
 <ellipse cx="4.00296" cy="38.4285" rx="4.00296" ry="38.4285" transform="matrix(0.771042 -0.636785 0.82199 0.569502 82.5012 521.78)" fill="url(#paint99_radial_38_306)"/>
 </g>
 <g style="mix-blend-mode:color-dodge">
-<rect width="8.00593" height="76.8569" transform="matrix(0.82199 0.569502 -0.771042 0.636785 252.282 521.659)" fill="black"/>
-<ellipse cx="4.00297" cy="38.4285" rx="4.00297" ry="38.4285" transform="matrix(0.82199 0.569502 -0.771042 0.636785 252.282 521.659)" fill="url(#paint100_radial_38_306)"/>
+<rect width="8.00593" height="76.8569" transform="matrix(0.82199 0.569502 -0.771042 0.636785 252.282 521.658)" fill="black"/>
+<ellipse cx="4.00297" cy="38.4285" rx="4.00297" ry="38.4285" transform="matrix(0.82199 0.569502 -0.771042 0.636785 252.282 521.658)" fill="url(#paint100_radial_38_306)"/>
 </g>
 <g style="mix-blend-mode:color-dodge">
 <rect width="8.00593" height="76.8569" transform="matrix(0.771042 -0.636785 0.82199 0.569502 191.268 529.073)" fill="black"/>
@@ -421,32 +422,32 @@
 <ellipse cx="2.85188" cy="27.3781" rx="2.85188" ry="27.3781" transform="matrix(0.82199 0.569502 -0.771042 0.636785 366.342 608.198)" fill="url(#paint104_radial_38_306)"/>
 </g>
 <g style="mix-blend-mode:color-dodge">
-<rect width="5.70376" height="54.7561" transform="matrix(0.771042 -0.636785 0.82199 0.569502 322.873 613.48)" fill="black"/>
-<ellipse cx="2.85188" cy="27.3781" rx="2.85188" ry="27.3781" transform="matrix(0.771042 -0.636785 0.82199 0.569502 322.873 613.48)" fill="url(#paint105_radial_38_306)"/>
+<rect width="5.70376" height="54.7561" transform="matrix(0.771042 -0.636785 0.82199 0.569502 322.874 613.48)" fill="black"/>
+<ellipse cx="2.85188" cy="27.3781" rx="2.85188" ry="27.3781" transform="matrix(0.771042 -0.636785 0.82199 0.569502 322.874 613.48)" fill="url(#paint105_radial_38_306)"/>
 </g>
 <g style="mix-blend-mode:color-dodge">
-<rect width="7.54651" height="72.4465" transform="matrix(0.82199 0.569502 -0.771042 0.636785 367.221 658.129)" fill="black"/>
-<ellipse cx="3.77326" cy="36.2233" rx="3.77326" ry="36.2233" transform="matrix(0.82199 0.569502 -0.771042 0.636785 367.221 658.129)" fill="url(#paint106_radial_38_306)"/>
+<rect width="7.54651" height="72.4465" transform="matrix(0.82199 0.569502 -0.771042 0.636785 367.222 658.129)" fill="black"/>
+<ellipse cx="3.77326" cy="36.2233" rx="3.77326" ry="36.2233" transform="matrix(0.82199 0.569502 -0.771042 0.636785 367.222 658.129)" fill="url(#paint106_radial_38_306)"/>
 </g>
 <g style="mix-blend-mode:color-dodge">
 <rect width="7.54651" height="72.4465" transform="matrix(0.771042 -0.636785 0.82199 0.569502 309.709 665.118)" fill="black"/>
 <ellipse cx="3.77325" cy="36.2233" rx="3.77325" ry="36.2233" transform="matrix(0.771042 -0.636785 0.82199 0.569502 309.709 665.118)" fill="url(#paint107_radial_38_306)"/>
 </g>
 <g style="mix-blend-mode:color-dodge">
-<rect width="11.0565" height="106.143" transform="matrix(0.82199 0.569502 -0.771042 0.636785 548.234 616.339)" fill="black"/>
-<ellipse cx="5.52827" cy="53.0714" rx="5.52827" ry="53.0714" transform="matrix(0.82199 0.569502 -0.771042 0.636785 548.234 616.339)" fill="url(#paint108_radial_38_306)"/>
+<rect width="11.0565" height="106.143" transform="matrix(0.82199 0.569502 -0.771042 0.636785 548.235 616.339)" fill="black"/>
+<ellipse cx="5.52827" cy="53.0714" rx="5.52827" ry="53.0714" transform="matrix(0.82199 0.569502 -0.771042 0.636785 548.235 616.339)" fill="url(#paint108_radial_38_306)"/>
 </g>
 <g style="mix-blend-mode:color-dodge">
 <rect width="11.0565" height="106.143" transform="matrix(0.771042 -0.636785 0.82199 0.569502 463.972 626.578)" fill="black"/>
 <ellipse cx="5.52826" cy="53.0714" rx="5.52826" ry="53.0714" transform="matrix(0.771042 -0.636785 0.82199 0.569502 463.972 626.578)" fill="url(#paint109_radial_38_306)"/>
 </g>
 <g style="mix-blend-mode:color-dodge">
-<rect width="7.28327" height="69.9193" transform="matrix(0.82199 0.569502 -0.771042 0.636785 491.84 685.776)" fill="black"/>
-<ellipse cx="3.64163" cy="34.9597" rx="3.64163" ry="34.9597" transform="matrix(0.82199 0.569502 -0.771042 0.636785 491.84 685.776)" fill="url(#paint110_radial_38_306)"/>
+<rect width="7.28327" height="69.9193" transform="matrix(0.82199 0.569502 -0.771042 0.636785 491.84 685.775)" fill="black"/>
+<ellipse cx="3.64163" cy="34.9597" rx="3.64163" ry="34.9597" transform="matrix(0.82199 0.569502 -0.771042 0.636785 491.84 685.775)" fill="url(#paint110_radial_38_306)"/>
 </g>
 <g style="mix-blend-mode:color-dodge">
-<rect width="7.28326" height="69.9193" transform="matrix(0.771042 -0.636785 0.82199 0.569502 436.334 692.521)" fill="black"/>
-<ellipse cx="3.64163" cy="34.9597" rx="3.64163" ry="34.9597" transform="matrix(0.771042 -0.636785 0.82199 0.569502 436.334 692.521)" fill="url(#paint111_radial_38_306)"/>
+<rect width="7.28326" height="69.9193" transform="matrix(0.771042 -0.636785 0.82199 0.569502 436.334 692.52)" fill="black"/>
+<ellipse cx="3.64163" cy="34.9597" rx="3.64163" ry="34.9597" transform="matrix(0.771042 -0.636785 0.82199 0.569502 436.334 692.52)" fill="url(#paint111_radial_38_306)"/>
 </g>
 <defs>
 <radialGradient id="paint0_radial_38_306" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(3.33501 32.0161) rotate(90) scale(32.0161 3.33501)">
@@ -753,11 +754,11 @@
 <stop offset="0.0364583" stop-color="#FFF1E4"/>
 <stop offset="1" stop-color="#3A71FF" stop-opacity="0"/>
 </radialGradient>
-<radialGradient id="paint76_radial_38_306" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(819.913 484.765) rotate(90) scale(45.962 4.7877)">
+<radialGradient id="paint76_radial_38_306" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(819.913 484.764) rotate(90) scale(45.962 4.7877)">
 <stop offset="0.0364583" stop-color="#FFF1E4"/>
 <stop offset="1" stop-color="#3A71FF" stop-opacity="0"/>
 </radialGradient>
-<radialGradient id="paint77_radial_38_306" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(819.912 484.765) rotate(90) scale(45.962 4.7877)">
+<radialGradient id="paint77_radial_38_306" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(819.912 484.764) rotate(90) scale(45.962 4.7877)">
 <stop offset="0.0364583" stop-color="#FFF1E4"/>
 <stop offset="1" stop-color="#3A71FF" stop-opacity="0"/>
 </radialGradient>
