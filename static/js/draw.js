@@ -27,9 +27,9 @@ function drawPoints() {
     
     // Si es el último punto tocado, cambiar el color a rojo
     if (lastTouchedPoint && point === lastTouchedPoint) {
-      ctx.fillStyle = 'red';
+      ctx.fillStyle = '#5296FC';
     } else {
-      ctx.fillStyle = 'black'; // Color por defecto
+      ctx.fillStyle = 'white'; // Color por defecto
     }
     
     ctx.fill();
@@ -43,8 +43,8 @@ function drawLines() {
     ctx.beginPath();
     ctx.moveTo(line.start.x, line.start.y);
     ctx.lineTo(line.end.x, line.end.y);
-    ctx.strokeStyle = 'black';
-    ctx.lineWidth = 2;
+    ctx.strokeStyle = 'white'; // Cambia el color de las líneas (verde en este caso)
+    ctx.lineWidth = 3;
     ctx.stroke();
     ctx.closePath();
   });
@@ -102,8 +102,8 @@ canvas.addEventListener('mousemove', (e) => {
     ctx.beginPath();
     ctx.moveTo(currentPoint.x, currentPoint.y);
     ctx.lineTo(x, y);
-    ctx.strokeStyle = 'black';
-    ctx.lineWidth = 1;
+    ctx.strokeStyle = '#5296FC';
+    ctx.lineWidth = 2;
     ctx.stroke();
     ctx.closePath();
   }

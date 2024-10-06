@@ -68,8 +68,9 @@ footer {
   
   /* Estilo del canvas */
   #drawCanvas {
-    border: 2px solid black;
-    background-color: #f0f0f0;
+    border: none;
+    background-color: #00032b;
+    border-radius: 10px;
   }
 /* Botón debajo del canvas */
 .button-container {
