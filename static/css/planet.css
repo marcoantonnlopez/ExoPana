@@ -1,12 +1,16 @@
-/* Estilos del body para alinear todo correctamente */
 body {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-  }
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-image: url('../img/Background.svg'); /* Ruta a la imagen */
+  background-size: cover; /* Ajusta la imagen para que cubra toda la pantalla */
+  background-position: center; /* Centra la imagen */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+  font-family: "Inter", sans-serif;
+}
   
   /* Header */
   header {
@@ -30,6 +34,7 @@ body {
   
   /* Título centrado */
   .planet-title {
+    color: white;
     text-align: center;
     font-size: 32px;
     margin: 20px 0;
@@ -47,12 +52,13 @@ body {
   .model-3d {
     width: 45%;
     height: 300px;
-    background-color: lightgray;
+    background: linear-gradient(90deg, #09fa79d3 0%, #f40dd5db 100%);
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 24px;
-    border: 1px solid #000;
+    border: none;
+    border-radius: 15px;
   }
   
   /* Estilo del contenedor con los pequeños contenedores */
